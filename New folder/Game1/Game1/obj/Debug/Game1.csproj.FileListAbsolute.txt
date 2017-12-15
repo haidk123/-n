@@ -1,0 +1,10 @@
+E:\c++\Game1\Game1\bin\Debug\Game1.exe.config
+E:\c++\Game1\Game1\bin\Debug\Game1.exe
+E:\c++\Game1\Game1\bin\Debug\Game1.pdb
+E:\c++\Game1\Game1\obj\Debug\Game1.csprojResolveAssemblyReference.cache
+E:\c++\Game1\Game1\obj\Debug\Game1.Game1.resources
+E:\c++\Game1\Game1\obj\Debug\Game1.Properties.Resources.resources
+E:\c++\Game1\Game1\obj\Debug\Game1.csproj.GenerateResource.Cache
+E:\c++\Game1\Game1\obj\Debug\Game1.csproj.CoreCompileInputs.cache
+E:\c++\Game1\Game1\obj\Debug\Game1.exe
+E:\c++\Game1\Game1\obj\Debug\Game1.pdb
